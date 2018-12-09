@@ -1,3 +1,5 @@
+Primero instala esta extensión si estás usando chrome: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=es-419
+Lo que hace lo anterior es autorizar "Allow-Control-Allow-Origin", para que se pueda mostrar el contenido de la api.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
